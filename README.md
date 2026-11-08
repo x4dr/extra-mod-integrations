@@ -1,5 +1,10 @@
 # Extra Mod Integrations
 
+> **Fork.** This is [maric's fork](https://github.com/x4dr/extra-mod-integrations) of Extra Mod
+> Integrations, built against a newer PneumaticCraft for a private modpack. See [FORK.md](FORK.md)
+> for what changed, how to build it and the license notes. Upstream is
+> [Kneelawk/extra-mod-integrations](https://github.com/Kneelawk/extra-mod-integrations).
+
 This mod is an addon for the powerful, new recipe viewer [EMI]. This addon adds support for viewing the listed mods'
 recipes in EMI, including in the EMI Recipe Tree. This addon is still under construction and support for more mods is
 planned!
